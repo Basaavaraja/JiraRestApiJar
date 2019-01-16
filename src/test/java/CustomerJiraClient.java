@@ -8,7 +8,7 @@ import java.net.URI;
 
 
 /**
- * Nice prject
+ * Nice prject123
  * Entry-point invoked when the jar is executed My Repo.
  */
 public class CustomerJiraClient
